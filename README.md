@@ -1,5 +1,4 @@
-# Project2
-컴퓨터정보공학부 소프트웨어공학 Project2
+# Assignment2
 팀장  
 2019202024 김영빈(0binn)  
 팀원   
